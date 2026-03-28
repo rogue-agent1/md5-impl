@@ -1,18 +1,11 @@
-# Md5 Impl
+# md5-impl
 
-Pure Python MD5 implementation.
+MD5 hash implementation from scratch.
+
+Zero dependencies. Python 3.8+.
 
 ## Usage
 
 ```bash
-python3 md5_impl.py
+python3 md5_impl.py --help
 ```
-
-## Features
-
-- Pure Python, zero dependencies
-- Single file implementation
-
-## License
-
-MIT
